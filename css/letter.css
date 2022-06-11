@@ -407,7 +407,7 @@ section.container>form.flip>.front {
 	background: -webkit-linear-gradient(top, #fafafa 90%, #f7f7f7 100%);
 	background: -moz-linear-gradient(top, #fafafa 80%, #f7f7f7 100%);
 	padding: 40px 40px 0;
-	font-size: 22px;/*信件内容字体大小*/
+	font-size: 18px;/*信件内容字体大小*/
 	line-height: 1.4;
 	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 	box-shadow: 0 -5px 8px -4px rgba(0, 0, 0, 0.15);
