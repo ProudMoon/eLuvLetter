@@ -58,7 +58,7 @@
 #flip {
 	margin: 165px 0 0 10px;
 	float: left;
-	font-size: 80px;
+	font-size: 30px;
 }
 
 #close {
@@ -246,7 +246,7 @@ section.container>form.flip>.front {
 }
 
 #lid .flip .front {
-	font-size: 1.25em;
+	font-size: 5.25em;
 	border-radius: 0 0 40px 40px;
 }
 
